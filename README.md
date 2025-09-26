@@ -1,7 +1,7 @@
 # About
 - Self-Contained Docker Environment for [PotreeConverter 2.0](https://github.com/potree/PotreeConverter.git)
 
-# Usege
+# Usage
 1. Build docker image
 ~~~bash
 docker build . -t potree-converter
